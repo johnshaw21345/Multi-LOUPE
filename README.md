@@ -1,6 +1,10 @@
 # Multi-LOUPE
 Python Implementation of Multi channel LOUPE for diffusion MRI Images
 
+# Note
+This is the code of the draft commited to ISMRM 2025.
+The parameters.py is mostly unused but untouched to avoid bugs.
+
 # Citation
 * Deep-learning-based Optimization of the Under-sampling Pattern in MRI
 C. Bahadir‡, A.Q. Wang‡, A.V. Dalca, M.R. Sabuncu.
